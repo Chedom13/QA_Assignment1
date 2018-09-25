@@ -1,0 +1,9 @@
+c:\users\steve\source\repos\QA_Assignment1\QA_Assignment1\bin\Debug\QA_Assignment1.exe.config
+c:\users\steve\source\repos\QA_Assignment1\QA_Assignment1\bin\Debug\QA_Assignment1.exe
+c:\users\steve\source\repos\QA_Assignment1\QA_Assignment1\bin\Debug\QA_Assignment1.pdb
+c:\users\steve\source\repos\QA_Assignment1\QA_Assignment1\obj\Debug\QA_Assignment1.csproj.CoreCompileInputs.cache
+c:\users\steve\source\repos\QA_Assignment1\QA_Assignment1\obj\Debug\QA_Assignment1.exe
+c:\users\steve\source\repos\QA_Assignment1\QA_Assignment1\obj\Debug\QA_Assignment1.pdb
+c:\users\steve\source\repos\QA_Assignment1\QA_Assignment1\bin\Debug\nunit.framework.dll
+c:\users\steve\source\repos\QA_Assignment1\QA_Assignment1\bin\Debug\nunit.framework.xml
+C:\Users\steve\source\repos\QA_Assignment1\QA_Assignment1\obj\Debug\QA_Assignment1.csprojResolveAssemblyReference.cache
